@@ -1,0 +1,14 @@
+Package: PreHPVcc
+Type: Package
+Title: Subtyping of human papillomavirus-positive cervical cancers based on the expression profiles of 50 genes
+Version: 1.0
+Author: Shengwei Li, Xiaosheng Wang
+Maintainer: Shengwei Li <lishengwei98@163.com>, Xiaosheng Wang <xiaosheng.wang@cpu.edu.cn>
+Description: The package is used to predict human papillomavirus-positive cervical cancers based on the expression level of 50 genes.
+LazyData: true
+Imports: class
+License: GPL (>= 3)
+RoxygenNote: 7.1.2
+NeedsCompilation: no
+Depends: 
+    R (>= 2.10)
