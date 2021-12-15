@@ -9,7 +9,7 @@ This algorithm aims to predict the subtypes of HPV+ cervical cancers because HPV
 
 Prediction results ("1" indicates HPV+G1, and "0" HPV+G2).
 
-               The 50 gene features used in the PreHPVs algorithm
+               The 50 gene features used in the PreHPVcc algorithm
 
 | Gene symbol | Entrez gene ID | Gene Name |
 | :------: | :------: | :------: |
